@@ -1,0 +1,8 @@
+[package]
+name = "simple-mutex"
+version = "0.1.0"
+edition = "2021"
+authors = ["George Seabridge <georgeseabridge@gmail.com>"]
+license = "MIT"
+
+[dependencies]
